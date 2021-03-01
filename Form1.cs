@@ -136,6 +136,9 @@ namespace StripperCollector
                 }
                 File.WriteAllTextAsync(maps[mapIndex]+".cfg", arrayOfStrings);
             }
+
+            positions.Clear();
+            regenerateVisualList();
         }
 
         private void button1_Click(object sender, EventArgs e)
