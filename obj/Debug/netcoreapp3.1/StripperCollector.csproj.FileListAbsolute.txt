@@ -1,0 +1,15 @@
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\bin\Debug\netcoreapp3.1\StripperCollector.exe
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\bin\Debug\netcoreapp3.1\StripperCollector.deps.json
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\bin\Debug\netcoreapp3.1\StripperCollector.runtimeconfig.json
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\bin\Debug\netcoreapp3.1\StripperCollector.runtimeconfig.dev.json
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\bin\Debug\netcoreapp3.1\StripperCollector.dll
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\bin\Debug\netcoreapp3.1\StripperCollector.pdb
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\obj\Debug\netcoreapp3.1\StripperCollector.csprojAssemblyReference.cache
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\obj\Debug\netcoreapp3.1\StripperCollector.Form1.resources
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\obj\Debug\netcoreapp3.1\StripperCollector.csproj.GenerateResource.cache
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\obj\Debug\netcoreapp3.1\StripperCollector.AssemblyInfoInputs.cache
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\obj\Debug\netcoreapp3.1\StripperCollector.AssemblyInfo.cs
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\obj\Debug\netcoreapp3.1\StripperCollector.csproj.CoreCompileInputs.cache
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\obj\Debug\netcoreapp3.1\StripperCollector.dll
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\obj\Debug\netcoreapp3.1\StripperCollector.pdb
+C:\Users\Krevik\source\repos\StripperCollector\StripperCollector\obj\Debug\netcoreapp3.1\StripperCollector.genruntimeconfig.cache
